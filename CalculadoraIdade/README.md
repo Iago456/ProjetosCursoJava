@@ -14,12 +14,6 @@ Bem-vindo ao projeto **Calculadora de Idade**, uma aplicação simples, interati
 
 ---
 
-## 🖼️ Preview
-
-![Imagem da interface](caminho/para/sua/imagem.png)
-
----
-
 ## 💻 Tecnologias Utilizadas
 
 - **Java 8+**
@@ -34,3 +28,6 @@ Bem-vindo ao projeto **Calculadora de Idade**, uma aplicação simples, interati
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/calculadora-idade
+2. Execute o código em um executador java
+   Obs: Deve ter a linguagem JavaSwing
+3. Rode o código, coloque seu ano de nascimento e veja a maggica acontecer
