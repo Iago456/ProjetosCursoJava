@@ -15,16 +15,18 @@ Este repositório tem como objetivo:
 
 ---
 
-## 🛠️ Plataformas e Ferramentas Utilizadas
+## 🛠️ Plataformas Utilizadas
 
-| Ferramenta | Descrição | Logo |
-|------------|-----------|------|
-| [Curso em Vídeo](https://www.cursoemvideo.com/) | Plataforma de ensino online com cursos gratuitos | <img src="https://www.cursoemvideo.com/wp-content/uploads/2022/01/logo-cursoemvideo-branca.png" alt="Curso em Vídeo" width="40"/> |
-| [NetBeans IDE](https://netbeans.apache.org/) | Ambiente de desenvolvimento usado para criar os projetos | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
-| [Java](https://www.oracle.com/java/) | Linguagem de programação utilizada para todos os projetos | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/> |
+<div style="display: flex; gap: 20px; align-items: center;">
 
-> *As logos estão com tamanho ajustado para manter o layout limpo. Se preferir ainda menores ou mais discretas, é só avisar!*
+<a href="https://www.oracle.com/java/" target="_blank" style="text-decoration: none; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40"/><br/>
+  <span style="font-size: 14px;">Java</span>
+</a>
 
----
+<a href="https://netbeans.apache.org/" target="_blank" style="text-decoration: none; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/><br/>
+  <span style="font-size: 14px;">NetBeans</span>
+</a>
 
-Pronto pra seguir pra próxima parte? Posso incluir a estrutura dos projetos no repositório, lista dos desafios, instruções de execução ou o que mais você quiser 😄
+</div>
