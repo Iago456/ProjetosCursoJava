@@ -22,9 +22,6 @@ SomaSwing é um projeto simples de **calculadora de somas**, desenvolvido em **J
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/SomaSwing.git
-2. Execute em uma IDE
+1. Execute em uma IDE
     **Obs: O javaSwing está com a assinatura do "Netbeans", então executará bem somente nessa IDE**
-3. Execute o código, colocando dois valores e apertando no botão de "Soma"
+2. Execute o código, colocando dois valores e apertando no botão de "Soma"
