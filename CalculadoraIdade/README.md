@@ -25,7 +25,7 @@ Bem-vindo ao projeto **Calculadora de Idade**, uma aplicação simples, interati
 
 ## 🛠️ Como Usar
 
-2. Execute o código em uma IDE Java
+1. Execute o código em uma IDE Java
    Obs: Deve ter a linguagem **JavaSwing** e só é
    executado na IDE **"Netbeans"**
-3. Rode o código, coloque seu ano de nascimento e veja a maggica acontecer
+2. Rode o código, coloque seu ano de nascimento e veja a magica acontecer
