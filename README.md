@@ -17,7 +17,7 @@ Este repositório tem como objetivo:
 
 ## 🛠️ Plataformas Utilizadas
 
-<div style="display: flex; gap: 40px; align-items: center;">
+<div style="display: flex; gap: 100px; align-items: center;">
 
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/>
