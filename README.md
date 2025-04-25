@@ -17,16 +17,15 @@ Este repositório tem como objetivo:
 
 ## 🛠️ Plataformas Utilizadas
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
 
-<a href="https://www.oracle.com/java/" target="_blank" style="text-decoration: none; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/><br/>
-  <span style="font-size: 12px;">Java</span>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/>
 </a>
 
-<a href="https://netbeans.apache.org/" target="_blank" style="text-decoration: none; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="30"/><br/>
-  <span style="font-size: 12px;">NetBeans</span>
+<a href="https://netbeans.apache.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="30"/>
 </a>
 
 </div>
+
