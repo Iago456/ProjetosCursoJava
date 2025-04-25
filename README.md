@@ -15,8 +15,10 @@ Este repositório tem como objetivo:
 
 ---
 
-## 🛠️ Plataformas Utilizadas
+## 🛠️ Plataformas e Ferramentas Utilizadas
 
-|              |              |
-|--------------|--------------|
-| [![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)](https://www.oracle.com/java/) | [![NetBeans](https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg)](https://netbeans.apache.org/) |
+| Ferramenta | Descrição | Logo |
+|------------|-----------|------|
+| [Curso em Vídeo](https://www.cursoemvideo.com/) | Plataforma de ensino online com cursos gratuitos | <img src="https://www.cursoemvideo.com/wp-content/uploads/2022/01/logo-cursoemvideo-branca.png" alt="Curso em Vídeo" width="40"/> |
+| [NetBeans IDE](https://netbeans.apache.org/) | Ambiente de desenvolvimento usado para criar os projetos | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
+| [Java](https://www.oracle.com/java/) | Linguagem de programação utilizada para todos os projetos | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/> |
