@@ -36,4 +36,14 @@ Este repositório tem como objetivo:
 | [NetBeans IDE](https://netbeans.apache.org/) | Ambiente de desenvolvimento usado para criar os projetos | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
 | [Java](https://www.oracle.com/java/) | Linguagem de programação utilizada para todos os projetos | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/> |
 
----
+
+
+## **Descrição**
+
+Aqui possui todos os meus projetos que fiz no curso de **Java**. Antes de ver, lembre de utilizar em uma IDE que tenha a linguagem *Java* e *JavaSwing* para projetos que tenham as duas linguagens ou uma.
+
+*OBS: Os projetos que usam **javaSwing** precisam usar a ferramenta [Netbeans IDE](https://netbeans.apache.org/) pois a assinatura da tela só*
+*funcionará nessa IDE.*
+
+**More Projects?**
+[SantosIago](https://github.com/SantosIago)
