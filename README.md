@@ -26,7 +26,7 @@ Este repositório tem como objetivo:
 | [SomaSwing](https://github.com/Iago456/ProjetosCursoJava/tree/main/Somaswing#readme) | Tela para fazer a soma | Java & JavaSwing |
 | [Super-Calculadora](https://github.com/Iago456/ProjetosCursoJava/tree/main/Super-Calculadora#readme) | Calculadora melhorada com operadores diferentes| Java & JavaSwing |
 
-=======
+---
 
 ## 🛠️ Plataformas e Ferramentas Utilizadas
 
@@ -36,6 +36,4 @@ Este repositório tem como objetivo:
 | [NetBeans IDE](https://netbeans.apache.org/) | Ambiente de desenvolvimento usado para criar os projetos | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
 | [Java](https://www.oracle.com/java/) | Linguagem de programação utilizada para todos os projetos | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/> |
 
-
-=======
-
+---
