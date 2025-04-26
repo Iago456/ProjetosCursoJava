@@ -15,8 +15,7 @@ Este repositório tem como objetivo:
 
 ---
 
-<<<<<<< HEAD
-## Projetos
+## 📝Projetos
 
 | Projeto | Descrição | Linguagem |
 |---------|-----------|-----------|
@@ -25,11 +24,10 @@ Este repositório tem como objetivo:
 | [NotasAlunos](https://github.com/Iago456/ProjetosCursoJava/tree/main/Notasalunos#readme) | Escreva seu aluno e sua nota | Java |
 | [Operador-swing](https://github.com/Iago456/ProjetosCursoJava/tree/main/Operador-swing#readme) | Calculadora de divisão | Java & JavaSwing |
 | [SomaSwing](https://github.com/Iago456/ProjetosCursoJava/tree/main/Somaswing#readme) | Tela para fazer a soma | Java & JavaSwing |
-| [Super-Calculadora](https://github.com/Iago456/ProjetosCursoJava/tree/main/Super-Calculadora#readme) | Calculadora melhorada com operadores diferentes| 
-Java & JavaSwing | 
+| [Super-Calculadora](https://github.com/Iago456/ProjetosCursoJava/tree/main/Super-Calculadora#readme) | Calculadora melhorada com operadores diferentes| Java & JavaSwing |
 
 =======
->>>>>>> ab3650a638f613d1342e8c60552bd9d153d05240
+
 ## 🛠️ Plataformas e Ferramentas Utilizadas
 
 | Ferramenta | Descrição | Logo |
@@ -37,7 +35,7 @@ Java & JavaSwing |
 | [Curso em Vídeo](https://www.cursoemvideo.com/) | Plataforma de ensino online com cursos gratuitos | <img src="https://www.cursoemvideo.com/wp-content/uploads/2022/01/logo-cursoemvideo-branca.png" alt="Curso em Vídeo" width="40"/> |
 | [NetBeans IDE](https://netbeans.apache.org/) | Ambiente de desenvolvimento usado para criar os projetos | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40"/> |
 | [Java](https://www.oracle.com/java/) | Linguagem de programação utilizada para todos os projetos | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30"/> |
-<<<<<<< HEAD
+
 
 =======
->>>>>>> ab3650a638f613d1342e8c60552bd9d153d05240
+
